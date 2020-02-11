@@ -1,8 +1,6 @@
-package com.GarbageCollection;
-
 import java.util.Scanner;
 
-public class ArrayOperation {
+public class ArrayOperation1 {
 	
 	public static int findSmallest(int arr[], int size) {
 		int temp = arr[0];

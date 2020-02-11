@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 import java.math.BigInteger;
 import java.util.function.BiFunction;
 

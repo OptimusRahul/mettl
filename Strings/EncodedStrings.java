@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 public class EncodedStrings {
 
 	public static String getEncodedString(String x, String y, String z) {

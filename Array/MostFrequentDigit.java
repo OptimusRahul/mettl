@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 public class MostFrequentDigit {
 	
 	public static int countFrequency(int arr[]){

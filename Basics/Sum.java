@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 public class Sum {
 	
 	public static int getSum(int a, int b) {

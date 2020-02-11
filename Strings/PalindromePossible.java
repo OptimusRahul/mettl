@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 import java.util.HashMap;
 import java.util.Map.Entry;
 

@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 public class Stable {
 	
 	public int findPassword(int a,int b, int c, int d, int e) {

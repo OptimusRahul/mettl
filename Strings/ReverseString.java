@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 public class ReverseString {
 
 	public static void main(String []args) {

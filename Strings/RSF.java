@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 public class RSF {
 	
 	public static int getRSF(int num) {

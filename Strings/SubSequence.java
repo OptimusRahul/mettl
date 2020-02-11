@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 public class SubSequence {
 	
 	public static String getSequence(int arr[], int n) {

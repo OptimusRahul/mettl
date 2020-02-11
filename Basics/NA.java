@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 public class A {
 	static int i=10;
 

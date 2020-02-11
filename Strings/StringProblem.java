@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 import java.util.Scanner;
 
 public class StringProblem {

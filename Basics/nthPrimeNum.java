@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 public class nthPrimeNum {
 
 public static int nthPrime(int n) {

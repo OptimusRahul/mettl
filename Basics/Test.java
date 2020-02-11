@@ -1,10 +1,8 @@
-package com.GarbageCollection;
-
 public class Test {
 	
 	public static void main(String []args) {
-		A a = new B();
-		B b = new B();
+		NA a = new NB();
+		NB b = new NB();
 		System.out.println(a);
 		System.out.println(a.i);
 		System.out.println(b.i);

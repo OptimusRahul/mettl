@@ -1,5 +1,3 @@
-package com.GarbageCollection;
-
 public class Class2 implements Base {
 
 	@Override
